@@ -7,7 +7,7 @@ An interative business intelligence dashboard for Ben's Pizzeria visualizing ord
 <P>
   <h3>Data Set Info:</h3>
   <P>
-    The data for this project contains multiple tables containing information on customers, orders, inventory, ingredients, staff and more. All the data sets can be downloaded     on my SQL - Project repository at this <a href="https://github.com/prathyushareddy99/Pizzeria-">link.</a>
+    The data for this project contains multiple tables containing information on customers, orders, inventory, ingredients, staff and more. All the data sets can be downloaded     on my SQL - Project repository at this <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Ben's%20Pizzeria/Data">link.</a>
   </p>
   
   <h3>Data Model:</h3>
